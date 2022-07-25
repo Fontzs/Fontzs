@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
+- 😄 Pronouns: he/him
 -->
 
 - 💻 I’m currently learning Computer Science
 - 💭 The readme file is created by [this repository](https://github.com/anuraghazra/github-readme-stats)
-- 😄 Pronouns: he/him
+
