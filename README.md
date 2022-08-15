@@ -16,10 +16,11 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-
+- ⚡
 - 😄 Pronouns: he/him
 -->
 
 - 💻 I’m currently learning Computer Science
 - 💭 The readme file is created by [this repository](https://github.com/anuraghazra/github-readme-stats)
-- ⚡ Fun fact: undergraduate and gopher
+- 🤡 Fun fact: undergraduate and joker
+ 
