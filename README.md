@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 -->
 
-- 💻 I’m currently learning Computer Science
+- 💻 I’m currently learning Computer Architecture (Machine Structures)
 - 💭 The readme file is created by [this repository](https://github.com/anuraghazra/github-readme-stats)
 - 🤡 Fun fact: undergraduate and joker
  
