@@ -28,5 +28,7 @@ Here are some ideas to get you started:
 
 - 💻 I’m currently learning Computer Architecture (Machine Structures)
 - 💭 The readme file is created by [this repository](https://github.com/anuraghazra/github-readme-stats)
-- 🤡 Fun fact: undergraduate and joker
+- 🤡 Fun fact: undergraduate, loser, sucker and joker
+- 📫 How to reach me: 2simple233@gmail.com or ingcheon@foxmail.com
+- 🥰 Please let me copy your homework
  
