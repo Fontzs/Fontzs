@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 -->
 
-- 💻 I’m currently learning Computer Architecture (Machine Structures)
+- 💻 I’m currently learning Computer Architecture (Machine Structures) and operating system
 - 💭 The readme file is created by [this repository](https://github.com/anuraghazra/github-readme-stats)
 - 🤡 Fun fact: undergraduate, loser, sucker and joker
 - 📫 How to reach me: 2simple233@gmail.com or ingcheon@foxmail.com
